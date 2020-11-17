@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/rushla/simple-todo-app2.git/static/css/main.7506e2d4.chunk.css",
+    "main.js": "/rushla/simple-todo-app2.git/static/js/main.434bb44d.chunk.js",
+    "main.js.map": "/rushla/simple-todo-app2.git/static/js/main.434bb44d.chunk.js.map",
+    "runtime-main.js": "/rushla/simple-todo-app2.git/static/js/runtime-main.d226104e.js",
+    "runtime-main.js.map": "/rushla/simple-todo-app2.git/static/js/runtime-main.d226104e.js.map",
+    "static/js/2.151c3b43.chunk.js": "/rushla/simple-todo-app2.git/static/js/2.151c3b43.chunk.js",
+    "static/js/2.151c3b43.chunk.js.map": "/rushla/simple-todo-app2.git/static/js/2.151c3b43.chunk.js.map",
+    "index.html": "/rushla/simple-todo-app2.git/index.html",
+    "static/css/main.7506e2d4.chunk.css.map": "/rushla/simple-todo-app2.git/static/css/main.7506e2d4.chunk.css.map",
+    "static/js/2.151c3b43.chunk.js.LICENSE.txt": "/rushla/simple-todo-app2.git/static/js/2.151c3b43.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d226104e.js",
+    "static/js/2.151c3b43.chunk.js",
+    "static/css/main.7506e2d4.chunk.css",
+    "static/js/main.434bb44d.chunk.js"
+  ]
+}
